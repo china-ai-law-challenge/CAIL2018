@@ -5,6 +5,10 @@
 ## 数据集论文
 数据集论文 [CAIL2018: A Large-Scale Legal Dataset for Judgment Prediction](https://arxiv.org/pdf/1807.02478.pdf) 已公布。
 
+数据集下载地址：https://cail.oss-cn-qingdao.aliyuncs.com/CAIL2018_ALL_DATA.zip
+
+使用该数据集请引用 [CAIL2018: A Large-Scale Legal Dataset for Judgment Prediction](https://arxiv.org/pdf/1807.02478.pdf) 和 [Overview of CAIL2018: Legal Judgment Prediction Competition](https://arxiv.org/pdf/1810.05851.pdf)。
+
 
 ## 选手交流群
 
